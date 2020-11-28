@@ -35,7 +35,7 @@ Click Help button to find out more about how to use me to my full potential.
 
 Made by @topglobal_epep
 
-Made With 💗 In 🇮D
+and thank for @CyberBoyAyush to great repo
 """
 
 
