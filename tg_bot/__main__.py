@@ -33,9 +33,9 @@ I'm here to manage your groups!
 
 Click Help button to find out more about how to use me to my full potential. 
 
-Made by @CyberBoyAyush
+Made by @topglobal_epep
 
-Made With 💗 In 🇮🇳
+Made With 💗 In 🇮D
 """
 
 
@@ -57,7 +57,7 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
-DONATE_STRING = """Hey you can Donate to [Ayush](t.me/CyberBoyAyush) for better server """
+DONATE_STRING = """Hey You can donate to someone who is more in need """
 
 
 IMPORTED = {}
@@ -165,7 +165,7 @@ def send_start(bot, update):
                 
     keyboard = [[
         InlineKeyboardButton(text=tld(chat.id, '🥳Add To Group'),
-                             url="https://t.me/MissSabrina_bot?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
+                             url="https://t.me/MissTinaRobot?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
         ]]
     keyboard += [[
         InlineKeyboardButton(text=tld(chat.id, '👥 Support Group'), url="https://t.me/SabrinaChat")
